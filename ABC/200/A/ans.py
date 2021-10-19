@@ -1,6 +1,8 @@
 N = int(input())
 
-tmp = N /100
 
-if tmp <= 1:
-  print(1)
+if N % 100 == 0:
+  print(int(N/100))
+else:
+  tmp = ((N+100)/100)
+  print(int(tmp))
