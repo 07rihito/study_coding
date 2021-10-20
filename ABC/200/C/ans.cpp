@@ -6,9 +6,8 @@ int main(int argc, char const* argv[])
   int N;
   cin >> N;
   int A[N];
-  for (int i = 0; i < N; i++) {
+  for (int i = 1; i < N; i++) {
     cin >> A[i];
-
   }
 
   int count = 0;
@@ -20,7 +19,6 @@ int main(int argc, char const* argv[])
       }
     }
   }
-
   cout << count << endl;
   return 0;
 }
