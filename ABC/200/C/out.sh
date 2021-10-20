@@ -2,7 +2,7 @@
 set -e
 
 if [ "$2" = "cpp" ]; then
-  compiler='g++-8'
+  compiler='g++-11'
   opt='-lm -O3'
   exe='-o'
 
