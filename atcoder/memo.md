@@ -1,6 +1,7 @@
 # memo
 
-## todo: 整数問題
+## AtCoderの練習問題
+### todo: 整数問題
 - [x] 137A
 - [x] 127A
 - [x] 118A
@@ -14,7 +15,7 @@
 - [ ] 176A
 - [ ] 競プロ典型90門 033
 
-## todo: while, for文
+### todo: while, for文
 - [ ] 162B
 - [ ] 206B
 - [ ] 165B
