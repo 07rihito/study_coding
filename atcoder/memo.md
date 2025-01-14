@@ -29,6 +29,21 @@
 - [ ] 220B
 - [ ] 競プロ典型90門 067
 
+### todo: 配列
+- [ ] 174B
+- [ ] 130B
+- [ ] 095B
+- [ ] 124B
+- [ ] 201B
+- [ ] 113B
+- [ ] 205B
+- [ ] 067B
+- [ ] 132C
+- [ ] 115C
+- [ ] 121C
+- [ ] 113C
+- [ ] 競プロ典型90問 076
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
