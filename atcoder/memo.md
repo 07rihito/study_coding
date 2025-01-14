@@ -44,6 +44,20 @@
 - [ ] 113C
 - [ ] 競プロ典型90問 076
 
+### todo: 文字列型変数を扱う問題
+- [ ] 215A
+- [ ] 084B
+- [ ] 146B
+- [ ] 147B
+- [ ] 218B
+- [ ] 058B
+- [ ] 066B
+- [ ] 103B
+- [ ] 221B
+- [ ] 152B
+- [ ] 082B
+- [ ] 第1回PAST A
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
