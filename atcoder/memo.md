@@ -58,6 +58,20 @@
 - [ ] 082B
 - [ ] 第1回PAST A
 
+## todo: 2重for文、2重配列を扱う問題
+- [ ] 144B
+- [ ] 105B
+- [ ] 133B
+- [ ] 175B
+- [ ] 214B
+- [ ] 177B
+- [ ] 157B
+- [ ] 049B
+- [ ] 197B
+- [ ] 107B
+- [ ] 第4回PAST C
+- [ ] 第2回PAST C
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
