@@ -86,6 +86,20 @@
 11. [ ] 108C
 12. [ ] 112C
 
+## todo: バケットや連想配列を練習できる問題
+1. [ ] 164C
+2. [ ] 154C
+3. [ ] 118B
+4. [ ] 081C
+5. [ ] 競プロ典型90門027 - Sign Up Requests
+6. [ ] 155C
+7. [ ] 073C
+8. [ ] 082C
+9. [ ] 058C
+10. [ ] 206C
+11. [ ] 200C
+12. [ ] 競プロ典型90門046 - I Love
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
