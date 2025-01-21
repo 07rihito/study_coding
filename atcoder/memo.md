@@ -100,6 +100,19 @@
 11. [ ] 200C
 12. [ ] 競プロ典型90門046 - I Love
 
+## todo: 区間分割や連長圧縮を練習できる問題
+1. [ ] 143C
+2. [ ] 019B
+3. [ ] 139C
+4. [ ] 116C
+5. [ ] AGC026A
+6. [ ] AGC040A
+7. [ ] AGC013A
+8. [ ] AGC039A
+9. [ ] 136D
+10. [ ] AGC016A
+11. [ ] 競プロ典型90門084 - There are two types of characters
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
