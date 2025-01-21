@@ -72,6 +72,20 @@
 11. [ ] 第4回PAST C
 12. [ ] 第2回PAST C
 
+## todo: 全探索を練習できる問題
+1. [ ] 097B
+2. [ ] 098B
+3. [ ] 051B
+4. [ ] 競プロ典型90門 055 - Select 5
+5. [ ] 競プロ典型90門 016 - Minimum Coins
+6. [ ] 157C
+7. [ ] 195B
+8. [ ] 079C
+9. [ ] 088C
+10. [ ] 095C
+11. [ ] 108C
+12. [ ] 112C
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
