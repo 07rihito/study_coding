@@ -113,6 +113,18 @@
 10. [ ] AGC016A
 11. [ ] 競プロ典型90門084 - There are two types of characters
 
+## todo: グラフを練習できる問題
+1. [ ] ABC061B
+2. [ ] ABC163C
+3. [ ] ABC166C
+4. [ ] ABC068C
+5. [ ] 競プロ典型90門078 - Easy Graph Problem
+6. [ ] 第1回PAST E - SNSのログ
+7. [ ] ABC054C
+8. [ ] ABC204C
+9. [ ] ABC075C
+10. [ ] 競プロ典型90門026 - Independent Set on a Tree
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
