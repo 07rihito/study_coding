@@ -125,6 +125,18 @@
 9. [ ] ABC075C
 10. [ ] 競プロ典型90門026 - Independent Set on a Tree
 
+## todo: 累積和を練習できる問題
+1. [ ] 競プロ典型90門010 - Score Sum Queries
+2. [ ] 全国統一プログラミング王決定戦本選A - Abundant Resources
+3. [ ] 第6回PAST D - K項足し算
+4. [ ] 第9回日本情報オリンピック本選A - 旅人
+5. [ ] ABC098C
+6. [ ] ABC084D
+7. [ ] ABC154D
+8. [ ] 第10回日本情報オリンピック本選A - 惑星探査(Planetary Exploration)
+9. [ ] AGC023A
+10. [ ] ABC125C
+
 ## 参考サイト
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
 - [競プロ典型90門](https://atcoder.jp/contests/typical90)
