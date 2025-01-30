@@ -114,7 +114,7 @@
 11. [ ] 競プロ典型90門084 - There are two types of characters
 
 ## todo: グラフを練習できる問題
-1. [ ] ABC061B
+1. [x] ABC061B
 2. [ ] ABC163C
 3. [ ] ABC166C
 4. [ ] ABC068C
