@@ -143,5 +143,6 @@
 
 ## お役たちツールたち
 - atcoder-cli, online-judge-tools  
+  - https://note.com/dev_onecareer/n/n673b1e040956#2c99172a-4646-4e62-a3d4-5c06ecc650cd
 - atcoder-tools  
   - https://github.com/kyuridenamida/atcoder-tools
