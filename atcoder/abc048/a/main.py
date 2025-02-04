@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 
-A, B = map(int, input().split())
-A = list(input().split())
+A, B, C = input().split()
 
 
-ans = 0
-
-print(ans)
+print(f"A{B[0]}C")

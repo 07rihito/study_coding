@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
-A, B = map(int, input().split())
-A = list(input().split())
+a, b, c = map(int, input().split())
 
-
-ans = 0
+high = b // c
+low = a // c
+ans = high - low
+if a % c == 0:
+    ans += 1
 
 print(ans)
