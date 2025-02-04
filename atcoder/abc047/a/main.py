@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
-A, B = map(int, input().split())
-A = list(input().split())
+a, b, c = map(int, input().split())
 
+ans = "No"
 
-ans = 0
+if a == (b + c) or b == (a + c) or c == (a + b):
+    ans = "Yes"
+
 
 print(ans)
